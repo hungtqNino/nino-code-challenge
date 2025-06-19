@@ -1,0 +1,17 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-width: 360px;
+    font-weight: 400;
+  }
+
+input, button {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
